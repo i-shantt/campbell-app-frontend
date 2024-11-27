@@ -1,0 +1,9 @@
+'PROJECT_ID': '56795997212' # The name of your GCP Project
+'REGION': 'us-central1' # Enter your associated region 
+'LOCATION': 'global' # Setting can be us or global
+'DSNAME': 'campbell-meeting-minutes-ds_1731909541571' # The name of the Vertex AI Search data store
+'DENAME': 'campbell-city-search_1731909683203' # The name of the Vertex AI Search engine app 
+
+# Setting if using basic authentication 
+'WEBUSER': 'user' # The username you want to use
+'WEBPASS': 'pass' # The password you want to use
