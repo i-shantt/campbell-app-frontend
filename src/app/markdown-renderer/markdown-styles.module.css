@@ -1,0 +1,33 @@
+/* markdown-styles.module.css */
+.reactMarkDown { 
+    /* Root level styles for the markdown container */
+    font-size: 1rem;
+}
+
+.reactMarkDown h1 {
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+.reactMarkDown h2 {
+    font-size: 1.5rem;
+    font-weight: 300;
+}
+
+.reactMarkDown p {
+    font-size: 1rem;
+}
+
+.reactMarkDown ul {
+    font-size: 1rem;
+}
+
+.reactMarkDown ol {
+    font-size: 1rem;
+}
+
+.reactMarkDown a {
+    font-size: 1rem;
+}
+
+/* Add more styles for other elements (blockquote, code, etc.) */
